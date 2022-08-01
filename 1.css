@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+ padding: 0px;
+ margin: 0px;
+
+}
+.header{
+height: 70px;
+background-color: aliceblue;
+}
+
+#nav{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    display:flex;
+    list-style-type: none;
+    margin-left: 540px;
+    margin-top: -40px;
+
+}
+li{
+    text-decoration: none;
+    float: left;
+display: flex;
+justify-content: center;
+margin-left: 60px;
+top: 55px;
+}
+a{
+    font-size: 18px;
+    color:black;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
